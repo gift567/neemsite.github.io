@@ -390,7 +390,7 @@ ul.social_icon li a i:hover {
 
 
 .navbar-area {
-    background: #39b54a;
+    background: #906b4e;
     display: flex;
     justify-content: space-around;
     height: 112px;
@@ -534,7 +534,7 @@ ul.email li a i {
 
     padding: 80px 0;
     padding-top: 10%;
-    background: url(../images/banner.png);
+    background: url(../images/hands.jpg);
     height: 100vh;
     background-repeat: no-repeat;
     background-position: center;
